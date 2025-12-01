@@ -7,7 +7,7 @@ export default function handler(req, res) {
                    userAgent.includes('RobloxApp');
 
   const scripts = {
-    'c6a59a0cd9dd8d273237ef3841ff6998': `
+    'WCKD-VERSION-9': `
 game:GetService("StarterGui"):SetCore("SendNotification",{
 Title = "Script loaded enjoy!",
 Text = "creds to Put your name here", 
